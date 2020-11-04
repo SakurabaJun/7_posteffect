@@ -18,8 +18,8 @@
 # 自分なりに変更した点
 
 - 追加したポストエフェクト：[追加したエフェクトをここに記述]
--
--
+- PostProcessingSceneでは赤いBloomを追加しました。
+- SelfPostEffectScenでは青いBloomを追加しました。
 -
 
 # 進め方
